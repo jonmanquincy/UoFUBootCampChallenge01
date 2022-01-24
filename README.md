@@ -1,2 +1,3 @@
 # UoFUBootCampChallenge01
-Semantic driven challenge for coding bootcamp
+Repository created for project for U of U BootCamp.
+Given project with poor semantics and revised.
